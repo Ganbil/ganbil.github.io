@@ -115,7 +115,7 @@ final class Versions
   'theseer/tokenizer' => '1.1.2@1c42705be2b6c1de5904f8afacef5895cab44bf8',
   'victorjonsson/markdowndocs' => 'dev-master@c9fa153b28a79f5da89ec32aa501be92db212aed',
   'webmozart/assert' => '1.4.0@83e253c8e0be5b0257b881e1827274667c5c17a9',
-  'getgrav/grav' => 'dev-master@0855fedfcfe98a005368762ab5802cdff293e510',
+  'getgrav/grav' => 'dev-master@bcb977aa218d5fe1efdcfabf131a8de78e47dafe',
 );
 
     private function __construct()

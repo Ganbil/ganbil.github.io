@@ -1,0 +1,11 @@
+state: enabled
+email: ganbil@gmail.com
+fullname: 'Florian Pasqué'
+title: Master
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$q7Wljx2s8oFmC3iCZHNrMu7ZQgaPgKxt8s9azjocSCdAP4h5BhLBC
